@@ -3,6 +3,7 @@
 |:---:|:---|
 |1|[소개](https://github.com/minecode0606/minecode-s_Algorithm/blob/main/Algorithm_source/chapter01/chapter01.ipynb)|
 |2|[알고리즘의 기본구조](https://github.com/minecode0606/minecode-s_Algorithm/blob/main/Algorithm_source/chapter02/chapter02.ipynb)|
+|3|[반복하는 알고리즘](https://github.com/minecode0606/minecode-s_Algorithm/blob/main/Algorithm_source/chapter03/chapter3.ipynb)|
 # 서문
 이 repository에서는 알고리즘(algorithm)과 자료구조(Data Structure)에 대하여 함깨 서술한다. 
 프로그램이란 컴퓨터에게 일을 하라고 지시하는 명령의 모음이라고 비유할수 있다. 컴푸터는 그 프로그램의 명령에 따라
